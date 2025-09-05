@@ -1,0 +1,55 @@
+## -----------------------------
+## Build Folders / Output
+## -----------------------------
+bin/
+obj/
+out/
+TestResults/
+
+## -----------------------------
+## Visual Studio / IDE Files
+## -----------------------------
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ncb
+*.sdf
+*.cache
+*.opendb
+*.VC.db
+.idea/
+.vscode/
+.history/
+
+## -----------------------------
+## OS Generated Files
+## -----------------------------
+.DS_Store
+Thumbs.db
+
+## -----------------------------
+## NuGet Packages
+## -----------------------------
+*.nupkg
+**/packages/*
+
+## -----------------------------
+## Logs
+## -----------------------------
+*.log
+
+## -----------------------------
+## EF Core / Database
+## -----------------------------
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+## -----------------------------
+## Others
+## -----------------------------
+*.generated.cs
+appsettings.*.json
