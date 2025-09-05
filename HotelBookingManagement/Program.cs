@@ -45,7 +45,6 @@ using (var scope = app.Services.CreateScope())
 app.UseGlobalExceptionHandling();
 app.UseSwagger();
 app.UseSwaggerUI();
-app.UseHttpsRedirection();
 app.MapControllers();
 
 app.Run();
